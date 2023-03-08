@@ -36,10 +36,20 @@
     <div class="column">
       <h2>Romantisch Gedicht</h2>
       <p>
-        Jouw ogen zijn als sterren aan de hemel,
-        Jouw lach zo warm en vol van leven,
-        Jouw aanwezigheid doet mijn hart smelten,
-        Jouw liefde is wat ik het meest verlang.
+        As I walk through life,
+        My heart begins to race.
+        For I have found someone
+        Who makes my soul embrace.
+
+        Their smile lights up the room,
+        Their laughter fills the air.
+        And when they look at me,
+        I feel like they truly care.
+
+        These feelings are new to me,
+        But I know they're real and true.
+        I'm falling for this person,
+        And I don't know what to do.
       </p>
     </div>
   </body>
