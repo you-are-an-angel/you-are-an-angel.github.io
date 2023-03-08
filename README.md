@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,15 +51,14 @@
         cursor: pointer;
       }
 
-      /* stijl voor afbeeldingen */
       .image-container {
-  display: flex;
-  justify-content: space-between;
-}
+       display: flex;
+       justify-content: space-between;
+      }
 
-.image-container img {
-  max-width: 33.3333%;
-}
+      .image-container img {
+        max-width: 33.3333%;
+      }
 
     </style>
   </head>
@@ -83,12 +81,12 @@
         I want to give her everything,
         And make her heart sing and run.
     </p>
-<p>
+      <p>
         Она женщина грации,
         Душа чистая и добрая.
         Она светит мои самые темные дни,
         И приносит мир в мой разум.
-        
+       
         Она заслуживает мира и более,
         За все, что она сделала.
         Я хочу дать ей все,
